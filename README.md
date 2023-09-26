@@ -42,4 +42,7 @@ npm install my-project
 
 ## References
 
+- [Basic writing and formatting syntax](https://app.exampro.co/student/material/terraform-cpb/5351)
+- [Github Markdown Editor and Github Flavoured Markdown (GFM)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
