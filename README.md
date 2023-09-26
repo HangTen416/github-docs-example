@@ -40,9 +40,25 @@ Explain how to install your project. Include any prerequisites and step-by-step 
 # Example installation commands
 npm install my-project
 
+## Lists
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3 :tada:
+
+## Emojis
+
+:cloud:
+:thumbsup:
+
+## Tables
+
+
+
 ## References
 
 - [Github Markdown Editor and Github Flavoured Markdown (GFM)](https://app.exampro.co/student/material/terraform-cpb/5351)<sup>1</sup>
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>2</sup>
+
 
 
