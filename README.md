@@ -6,7 +6,6 @@ Codeblocks in markdown make it *very easy* to **copy, paste, and share** code. A
 
 ![danmangan](https://github.com/HangTen416/github-docs-example/assets/107503570/f80cf744-ee61-45cd-bb3f-57fbe385d9c7)
 
-
 ```ruby
 
 # My Project
@@ -37,6 +36,10 @@ List the key features of your project:
 
 Explain how to install your project. Include any prerequisites and step-by-step instructions.
 
-```bash
+```
 # Example installation commands
 npm install my-project
+
+## References
+
+
