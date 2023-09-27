@@ -4,6 +4,8 @@
 
 Codeblocks in markdown make it *very easy* to **copy, paste, and share** code. A good __Cloud Engineer__ uses Codeblocks to _replicate or research_ ideas.
 
+## Photo!
+
 ![danmangan](https://github.com/HangTen416/github-docs-example/assets/107503570/f80cf744-ee61-45cd-bb3f-57fbe385d9c7)
 
 ```ruby
@@ -40,18 +42,18 @@ Explain how to install your project. Include any prerequisites and step-by-step 
 # Example installation commands
 npm install my-project
 
-## Lists
+## Lists<sup>3</sup>
 
 - [ ] Item 1
 - [ ] Item 2
 - [ ] Item 3 :tada:
 
-## Emojis
+## Emojis<sup>4</sup>
 
 :cloud:
 :thumbsup:
 
-## Tables
+## Tables<sup>5</sup>
 
 
 
@@ -59,6 +61,7 @@ npm install my-project
 
 - [Github Markdown Editor and Github Flavoured Markdown (GFM)](https://app.exampro.co/student/material/terraform-cpb/5351)<sup>1</sup>
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>2</sup>
-
-
+- [GFM Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)<sup>3</sup>
+- [GFM Emojis](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#using-emoji)<sup>4</sup>
+- [GFM Tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)<sup>5</sup>
 
