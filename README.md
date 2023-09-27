@@ -4,9 +4,11 @@
 
 Codeblocks in markdown make it *very easy* to **copy, paste, and share** code. A good __Cloud Engineer__ uses Codeblocks to _replicate or research_ ideas.
 
-## Photo!
+## Photos!
 
-![danmangan](https://github.com/HangTen416/github-docs-example/assets/107503570/f80cf744-ee61-45cd-bb3f-57fbe385d9c7)
+![danmangan](assets/danmangan.jpg)
+
+![bobcat](assets/1247486.jpeg)
 
 ```ruby
 
