@@ -58,7 +58,7 @@ npm install my-project
 ## Tables<sup>5</sup>
 
 ## Hidden Garden
-[Hidden Garden](hiddengarden.md)
+[Hidden Garden](hidden/garden.md)
 
 ## Footnotes
 
