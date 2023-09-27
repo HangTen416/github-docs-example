@@ -57,6 +57,9 @@ npm install my-project
 
 ## Tables<sup>5</sup>
 
+## Hidden Garden
+[Hidden Garden](hiddengarden.md)
+
 ## Footnotes
 
 Here is a simple footnote[^1].
